@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/AspNetCoreDockerSample/.idea/.idea.AspNetCoreDockerSample/.idea/.gitignore
+/AspNetCoreDockerSample/.idea/.idea.AspNetCoreDockerSample/.idea/encodings.xml
+/AspNetCoreDockerSample/.idea/.idea.AspNetCoreDockerSample/.idea/indexLayout.xml
+/AspNetCoreDockerSample/.idea/.idea.AspNetCoreDockerSample/.idea/vcs.xml
+/AspNetCoreDockerSample/.idea/config/applicationhost.config

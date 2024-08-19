@@ -1,0 +1,6 @@
+@AspNetCoreDockerSample_HostAddress = http://localhost:5041
+
+GET {{AspNetCoreDockerSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
